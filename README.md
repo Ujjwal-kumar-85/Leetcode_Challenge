@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0118-pascals-triangle) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
