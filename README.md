@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0136-single-number) |
+| [0931-minimum-falling-path-sum](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0118-pascals-triangle) |
+| [0931-minimum-falling-path-sum](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 ## String
 |  |
 | ------- |
@@ -50,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 <!---LeetCode Topics End-->
