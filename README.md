@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0136-single-number) |
 | [0322-coin-change](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0322-coin-change) |
 | [0931-minimum-falling-path-sum](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0931-minimum-falling-path-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0322-coin-change) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
