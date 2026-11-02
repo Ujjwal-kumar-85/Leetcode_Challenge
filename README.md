@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0136-single-number) |
 | [0322-coin-change](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0741-cherry-pickup](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0931-minimum-falling-path-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -81,9 +82,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
