@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Stack
 |  |
 | ------- |
