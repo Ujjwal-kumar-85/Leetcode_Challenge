@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0547-number-of-provinces) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -97,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/1480-running-sum-of-1d-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Ujjwal-kumar-85/Leetcode_Challenge/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
